@@ -23,3 +23,7 @@ Sembrano, Lorin
 ## Author
 
 -   [@rox](https://github.com/dev-140)
+
+### Link
+
+[Go to website](https://dev-140.github.io/SRTF/)
