@@ -95,7 +95,7 @@ const Table = ({ solvedProcessesInfo }: TableProps) => {
 						<HeaderCell>Job</HeaderCell>
 						<HeaderCell>Arrival Time</HeaderCell>
 						<HeaderCell>Burst Time</HeaderCell>
-						<HeaderCell>Finish Time</HeaderCell>
+						<HeaderCell>Completion time</HeaderCell>
 						<HeaderCell>Turnaround Time</HeaderCell>
 						<HeaderCell>Waiting Time</HeaderCell>
 					</tr>
