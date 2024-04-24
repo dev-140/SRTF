@@ -1,8 +1,4 @@
-
 # Shortest remaining time first
-
-
-
 
 ## Members
 
@@ -18,14 +14,12 @@ Mendoza, Aljon
 
 Sembrano, Lorin
 
-
 ## Preview
 
-![output](https://i.ibb.co/g9G3wRQ/Screen-Shot-2024-04-24-at-7-09-44-PM.png)
+![output](https://i.ibb.co/VM73v7d/Screen-Shot-2024-04-24-at-11-51-41-PM.png)
 
-![input](https://i.ibb.co/cDc86gQ/Screen-Shot-2024-04-24-at-7-09-50-PM.png)
+![input](https://i.ibb.co/Csp86qN/Screen-Shot-2024-04-24-at-11-53-34-PM.png)
 
 ## Author
 
-- [@rox](https://github.com/dev-140)
-
+-   [@rox](https://github.com/dev-140)
