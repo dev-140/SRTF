@@ -114,6 +114,10 @@ const GlobalStyle = createGlobalStyle`
     max-width: 100% !important;
   }
 
+  .input-main-container h1 {
+    text-align: center !important;
+  }
+
   .form-container {
     display: flex;
     justify-content: center;
