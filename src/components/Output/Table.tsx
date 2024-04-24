@@ -96,8 +96,8 @@ const Table = ({ solvedProcessesInfo }: TableProps) => {
 						<HeaderCell>Arrival Time</HeaderCell>
 						<HeaderCell>Burst Time</HeaderCell>
 						<HeaderCell>Completion time</HeaderCell>
-						<HeaderCell>Turnaround Time</HeaderCell>
 						<HeaderCell>Waiting Time</HeaderCell>
+						<HeaderCell>Turnaround Time</HeaderCell>
 					</tr>
 				</thead>
 				<tbody>
@@ -117,12 +117,12 @@ const Table = ({ solvedProcessesInfo }: TableProps) => {
 								Average
 							</td>
 							<td>
-								{totalTAT} / {numberOfProcesses} ={" "}
-								{precisionRound(averageTAT, 3)}
+								{totalWAT} / {numberOfProcesses} ={" "}
+								{precisionRound(averageWAT, 3)}ms
 							</td>
 							<td>
-								{totalWAT} / {numberOfProcesses} ={" "}
-								{precisionRound(averageWAT, 3)}
+								{totalTAT} / {numberOfProcesses} ={" "}
+								{precisionRound(averageTAT, 3)}ms
 							</td>
 						</tr>
 					}
