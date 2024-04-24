@@ -71,7 +71,7 @@ export default function Home() {
 			</Head>
 
 			<Main className="container hero-main-container">
-				<h1>Shortest remaining time</h1>
+				<h1>Shortest remaining time first</h1>
 			</Main>
 
 			<Main className="container parent-container">
