@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
   body {
     padding: 0;
     margin: 0;
-    background-color: #d4d4d4;
+    background-color: rgb(204 231 255);
     font-size: 1rem;
     -webkit-font-smoothing: antialiased;
   }
