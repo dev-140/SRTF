@@ -112,6 +112,7 @@ const GlobalStyle = createGlobalStyle`
   .input-main-container {
     width: 100% !important;
     max-width: 100% !important;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px !important;
   }
 
   .input-main-container h1 {
@@ -129,6 +130,7 @@ const GlobalStyle = createGlobalStyle`
     background: #fff;
     padding: 10px;
     border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px !important;
   }
 
   .hero-main-container h1 {
