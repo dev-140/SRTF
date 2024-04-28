@@ -140,6 +140,7 @@ const GlobalStyle = createGlobalStyle`
 
   .parent-container > div{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px !important;
+    border-radius: 15px;
   }
 `;
 
