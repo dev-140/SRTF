@@ -134,7 +134,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   .hero-main-container h1 {
-    text-align: center;
+    text-align: center !important;
     width: 100%;
   }
 
