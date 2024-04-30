@@ -73,6 +73,7 @@ type TableProps = {
 	}[];
 };
 
+// Table output
 const Table = ({ solvedProcessesInfo }: TableProps) => {
 	const total = (array: number[]) =>
 		array.reduce((acc, currentValue) => acc + currentValue, 0);
